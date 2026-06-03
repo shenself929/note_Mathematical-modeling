@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/shenself929/note_Mathematical-modeling/issues"
   },
-  "homepage": "https://github.com/shenself929/note_Mathematical-modeling#readme"
+  "homepage": "https://github.com/shenself929/note_Mathematical-modeling#readme",
+  "dependencies": {
+    "@google/gemini-cli": "^0.44.1"
+  }
 }
