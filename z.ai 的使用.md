@@ -4,4 +4,8 @@
 [z.ai](https://chat.z.ai)
 点击上面即可跳转，首次使用也需要登录
 
+### chat 模式
+
 ![](assets/z.ai%20的使用/file-20260704114131894.png)
+
+### agent 模式
