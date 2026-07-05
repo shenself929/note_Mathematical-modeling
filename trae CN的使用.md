@@ -12,3 +12,9 @@ trae 是一个本地agent，可以操控本地电脑，和zcode,codex差不多�
 
 ### 及时更新
 ![](assets/trae%20CN的使用/file-20260705145138105.png)
+
+
+### 文件预览
+
+
+![](assets/trae%20CN的使用/file-20260705150507510.png)
