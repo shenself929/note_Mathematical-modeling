@@ -52,3 +52,8 @@ wire_api = "responses"
 
 ![](assets/codex使用说明/file-20260715121434636.png)
 
+![](assets/codex使用说明/file-20260715121938226.png)
+
+![](assets/codex使用说明/file-20260715121947978.png)
+
+![](assets/codex使用说明/file-20260715122000890.png)
