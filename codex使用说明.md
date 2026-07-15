@@ -35,8 +35,18 @@ base_url = "https://api.whatai.cc/v1"
 wire_api = "responses"
 ```
 
+<mark>每次修改完内容需要按 ctrl+s 保存</mark>
 
 ![](assets/codex使用说明/file-20260715114822473.mp4)
 
 
+
 #### 2.直接让codex配置
+提示词：
+```
+帮我替换中转站api模型，具体信息如下:1.url:https://newapi.qwqtao.com/v1   2.api key:sk-XX   3.模型：glm-5.2[去模型广场看]
+```
+
+### codex应用软件
+和 chat gpt合二为一了，需要在 微软商店 搜索 chatgpt 下载
+
