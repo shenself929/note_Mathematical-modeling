@@ -34,3 +34,9 @@ name = "whatai"
 base_url = "https://api.whatai.cc/v1"
 wire_api = "responses"
 ```
+
+
+![](assets/codex使用说明/file-20260715114822473.mp4)
+
+
+#### 2.直接让codex配置
