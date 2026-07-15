@@ -50,3 +50,5 @@ wire_api = "responses"
 ### codex应用软件
 和 chat gpt合二为一了，需要在 微软商店 搜索 chatgpt 下载
 
+![](assets/codex使用说明/file-20260715121434636.png)
+
